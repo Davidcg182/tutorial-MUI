@@ -1,0 +1,16 @@
+- isntalar el npm de material IU
+- tener obviamente la base del proyecto (react app)
+- elegir el componente que se necesita
+- elegir el layout para el componente (diseño)
+- dar estilo a la tipografia (typhografi -- variant and component)
+	instalar icons y utilizar como componentes
+- createTheme and ThemeProvider
+
+
+-Drawer component (barras laterales)
+
+badge
+
+iconcolor
+
+tooltip
